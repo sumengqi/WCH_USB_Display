@@ -1,0 +1,24 @@
+# MounRiver Studio / Eclipse generated build output
+obj/
+dbg/
+DebugConfig/
+Release/
+
+# Compiler and linker products
+*.o
+*.d
+*.a
+*.elf
+*.hex
+*.bin.map
+*.lst
+*.map
+
+# Workspace-local metadata and OS files
+.metadata/
+.cache/
+Thumbs.db
+.DS_Store
+
+# Obsolete competition-logo source; the firmware uses USBminiTV_boot.png.
+User/立创电子设计大赛logo简版（原色）.bmp
